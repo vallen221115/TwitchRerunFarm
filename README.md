@@ -10,8 +10,8 @@ Edite o arquivo Users.Json com seu Usuário e seu AuthToken, pode usar vários u
 [
 	{
 
-		"username": "ExampleUserName",
-		"token": "ExampleAuthToken"
+		"username": "Padrelucifer2",
+		"token": "oauth:ilq8wcvg239otkofrik50pukaktom7"
     
 	},
     {
@@ -31,7 +31,8 @@ Edite o arquivo Channels.json com os canais que você quer farmar.
   "Channels": [
     "gaules",
     "streamiebr",
-	"baiano"
+	"ZAKl1k
+"
   ]
 }
 ```
